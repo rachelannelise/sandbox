@@ -1,0 +1,1 @@
+# __new__ useful for example like cache
