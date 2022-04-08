@@ -4,7 +4,7 @@ What a fun challenge! It makes me appreciate pandas.
 
 I finished #1-5, although was running out of time for #4-5 and left comments about what I would have done differently with more time.
 
-Please look at the `analysis_notebook.ipynb` or `analysis_notebook.html`.
+Please look at the `analysis_notebook.ipynb` for my answers.
 
 I used the `scratchpad.py` in iPython using the cell execution and "Scientific" 
 method to debug as I wrote things.
